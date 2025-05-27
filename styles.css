@@ -1,0 +1,15 @@
+#task-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .task-text {
+    flex-grow: 1;
+  }
+  
+  .delete-btn {
+    margin-left: 10px;
+  }
+  
